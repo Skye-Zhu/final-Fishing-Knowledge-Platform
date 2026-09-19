@@ -19,9 +19,9 @@ embedding_cache/    # FAISS indexes + metadata (auto-generated)
 
 requirements.txt
 Setup
-git clone https://github.com/Skye-Zhu/dsci560-final.git
+git clone https://github.com/Skye-Zhu/final-Fishing-Knowledge-Platform.git
 
-cd dsci560-final
+cd final-Fishing-Knowledge-Platform
 
 python -m venv venv && source venv/bin/activate
 
